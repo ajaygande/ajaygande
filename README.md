@@ -10,4 +10,4 @@ SQL analysis, and Python. My tools of choice are Zoho Analytics, Power BI, Pytho
 Check out my projects below ↓ and feel free to reach out.
 
 📧 ajaygande1@gmail.com   
-💼 linkedin.com/in/ajay-gande-5a38b2273 
+💼 https://www.linkedin.com/in/ajay-gande
